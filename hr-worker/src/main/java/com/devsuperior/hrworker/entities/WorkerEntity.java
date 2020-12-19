@@ -13,8 +13,7 @@ import java.io.Serializable;
 @Builder
 @Data
 @Entity(name = "TB_WORKER")
-public class WorkerEntity implements Serializable {
-    private static final long serialVersionUID = 1L;
+public class WorkerEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
