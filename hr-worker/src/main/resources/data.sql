@@ -1,9 +1,0 @@
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Jose', 230.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Maria', 80.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Alex', 150.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Bob', 200.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Antonio', 320.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Luiza', 450.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Marcela', 200.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Deodette', 100.0);
-INSERT INTO tb_worker (name, daily_Income) VALUES ('Camilo', 50.0);
