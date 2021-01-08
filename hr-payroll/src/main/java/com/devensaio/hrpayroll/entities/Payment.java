@@ -1,4 +1,4 @@
-package com.devsuperior.hrpayroll.entities;
+package com.devensaio.hrpayroll.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 @Builder
-public class Payment{
+public class Payment {
     private String name;
     private Double dailyIncome;
     private Integer days;
@@ -23,7 +23,7 @@ public class Payment{
     }
 
     public Double getTotal(){
-       total = days * dailyIncome;
-       return total;
+        total = days * dailyIncome;
+        return total;
     }
 }
