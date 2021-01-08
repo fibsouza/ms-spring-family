@@ -1,4 +1,4 @@
-package com.devsuperior.apigatewayzuul;
+package com.devensaio.apigatewayzuul;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
